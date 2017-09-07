@@ -57,3 +57,24 @@ V2.0.0
   4.Updated leveling interface.
   
   5.Fixed E position error after printing pause and filament change.
+  
+V2.0.1
+
+  1.Fixed the socket of “auto-off after printing”.
+
+  2.Available to choose “manual leveling” or “auto-leveling”.
+  
+  3.Compatible with “MKS TFT WIFI” , “MKS HLK-WIFI” and the latest version phone APP “MKSCloud”.
+  
+  4.Added “cloud service” and “mobile transfer files” functions.
+  
+  5.Added Windows style.
+
+V3.0.0
+
+  1.Added multi-language, available to switch 5 languages on line.
+
+  2.Fixed “WIFI transfer” problems.
+  
+  3. Optimized the “filament replacement” function.
+  
