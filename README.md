@@ -10,11 +10,11 @@
 
 2.  Firmware options
 
-  MKS TFT2.4: mkstft24.bin
+MKS TFT2.4: mkstft24.bin
   
-  MKS TFT2.8/3.2：mkstft28.bin
+MKS TFT2.8/3.2：mkstft28.bin
   
-3.Release Notes
+3.  Release Notes
 
   MKS -TFT Firmware version description
 
