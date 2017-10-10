@@ -1,6 +1,7 @@
 # MKS-TFT
 
-1.Attentions
+1.  Attentions
+
 1.1 MKS TFT includes TFT2.4, TFT2.8 and TFT3.2.
 
 1.2 If using MKS TFT_WIFI module, it’s necessary to upgrade the WIFI firmware. 
@@ -83,4 +84,4 @@ V3.0.0
 
 2.Fixed “WIFI transfer” problems.
 
-3. Optimized the “filament replacement” function.
+3.Optimized the “filament replacement” function.
