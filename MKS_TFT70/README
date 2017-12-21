@@ -1,3 +1,10 @@
-This is the firmware of tft70_v1.0.0
+# MKS-Robin
+MKS -Robin Firmware version description
+
+
+Robin V1.0.0
+
+     Initial version
+
 The function of image preview need to use the software of MKS-host
 download link:https://github.com/makerbase-mks/Software/tree/mks-host
