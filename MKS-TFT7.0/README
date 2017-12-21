@@ -1,1 +1,13 @@
+# MKS-TFT7.0
+MKS-TFT70 Firmware version description
 
+MKS-TFT70 V1.0.0
+
+     Initial version
+     
+2.  Firmware options
+
+MKS TFT2.4: mkstft24.bin
+
+The function of image preview need to use the software of MKS-host
+download link:https://github.com/makerbase-mks/Software/tree/mks-host
