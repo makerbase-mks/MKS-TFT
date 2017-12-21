@@ -85,3 +85,10 @@ V3.0.0
   2.Fixed “WIFI transfer” problems.
 
   3.Optimized the “filament replacement” function.
+  
+V3.0.1
+
+  1.Add configuration variables to the mks_config.txt file: >cfg_leveling_z_high
+  
+  2.Fixed the problem of screen display.
+  
