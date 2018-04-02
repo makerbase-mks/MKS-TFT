@@ -1,1 +1,16 @@
+# MKS-TFT3.5
+MKS-TFT35 Firmware version description
 
+MKS-TFT35 V1.0.0
+
+     Initial version
+     
+1.Firmware options
+
+MKS TFT3.5: mkstft35.bin
+
+2.TFT35 V1.0.0 function description
+
+  2.1.images preview
+  attention:The function of images preview need to use the software of MKS-host
+  download link:https://github.com/makerbase-mks/Software/tree/mks-host
