@@ -2,9 +2,9 @@
 
 1.  Attentions
 
-  1.1 MKS TFT includes TFT2.4, TFT2.8，TFT3.2 and TFT7.0.
+  1.1 MKS TFT includes TFT2.4, TFT3.5,TFT2.8，TFT3.2 and TFT7.0.
   
-  1.2 Since TFT7.0 is a standalone version, the following are TFT2.4, 2.8, and 3.2
+  1.2 Since TFT7.0 and TFT3.5 is standalone version, the following are TFT2.4, 2.8, and 3.2
 
   1.3 If using MKS TFT_WIFI module, it’s necessary to upgrade the WIFI firmware. 
 
