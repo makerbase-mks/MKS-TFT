@@ -94,3 +94,18 @@ V3.0.1
   
   2.Fixed the problem of screen display.
   
+  3.the content of V3.0.2 firmware modification(2018/05/05): 
+    (1).Add the "M-off" button to the "Home" interface.
+    (2).We changed default temperature 180 to 0 in the "Preheat" interface.
+    (3).Add the function of display mainboard eeror.
+    (4).in the fan inerface,press the "+" or "-",the fan work.
+    (5).fixed the bug of  click "more" restart  
+    (6).The board will stop operating more than 5 times when using the M110 re-instruction command
+    (7).Increase the configuration item to shield power failure detection function
+    (8).Modify the bug that serial port interrupt sending will be interrupted
+    (9).Modify the bug of read failure in U disk or SD card printing
+    (10).Increase configuration items to support dual extruder single nozzle.
+    (11).Add a button in the WIFI interface to control wifi module  function open or close
+    (12).Fixed bug that the simple version and the retro version manual leveling wasn't go home
+    (13).Wifi firmware was fixed bug that function incorrect when password less than 8 digits 
+  
