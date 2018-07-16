@@ -93,8 +93,9 @@ V3.0.1
   1.Add configuration variables to the mks_config.txt file: >cfg_leveling_z_high
   
   2.Fixed the problem of screen display.
-  
-  3.the content of V3.0.2 firmware modification(2018/05/05)
+ 
+V3.0.2
+  1.the content of V3.0.2 firmware modification(2018/05/05)
   
     (1).Add the "M-off" button to the "Home" interface
     
