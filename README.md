@@ -95,6 +95,7 @@ V3.0.1
   2.Fixed the problem of screen display.
  
 V3.0.2
+
   1.the content of V3.0.2 firmware modification(2018/05/05)
   
     (1).Add the "M-off" button to the "Home" interface
