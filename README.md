@@ -2,7 +2,7 @@
 
 1.  Attentions
 
-  1.1 MKS TFT includes TFT2.4, TFT3.5,TFT2.8，TFT3.2 and TFT7.0.
+  1.1 MKS TFT includes TFT2.4, TFT3.5,TFT2.8，TFT3.2,MKS-TFT_CNC and TFT7.0.
   
   1.2 Since TFT7.0 and TFT3.5 is standalone version, the following are TFT2.4, 2.8, and 3.2
 
@@ -124,4 +124,18 @@ V3.0.2
     
     (13).Wifi firmware was fixed bug that function incorrect when password less than 8 digits 
     
+    # MKS-TFT_CNC
+    MKS-TFT_CNC Firmware version description
+
+    MKS-TFT_CNC V0.0.9
+
+         Initial version
+
+    1.Firmware options
+
+    MKS-TFT_CNC: mkstft24.bin
+
+    2.MKS-TFT_CNC V0.0.9 function description
+
+    The hardware still uses MKS TFT24, and the protocol is compatible with GRBL.
   
