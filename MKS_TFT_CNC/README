@@ -1,1 +1,15 @@
 
+# MKS-TFT_CNC
+MKS-TFT_CNC Firmware version description
+
+MKS-TFT_CNC V0.0.9
+
+     Initial version
+     
+1.Firmware options
+
+MKS-TFT_CNC: mkstft24.bin
+
+2.MKS-TFT_CNC V0.0.9 function description
+
+The hardware still uses MKS TFT24, and the protocol is compatible with GRBL.
