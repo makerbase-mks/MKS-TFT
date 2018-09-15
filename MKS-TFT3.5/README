@@ -5,6 +5,13 @@ MKS-TFT35 V1.0.0
 
      Initial version
      
+MKS-TFT35 V1.0.1
+    1,Fixed the bug that the cloud button not display. 
+    2,Changing the background color of "AutoLeveling" button.
+    3,Fixed the bug that the machine did not return to zero when it moved to the first leveling point. 
+    4,Fixed  the bug that manual leveling fifth point coordinates without saving.
+    5,Fixed the bug that button1 and button2 are the same icons.  
+     
 1.Firmware options
 
 MKS TFT3.5: mkstft35.bin
