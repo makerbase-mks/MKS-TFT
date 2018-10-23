@@ -127,13 +127,22 @@ V3.0.2
 V3.03
 
     (1).Bootloader display can be rotated 180°.
+    
     (2).Add configuration items to block error reporting.
+    
     (3).Manually add temperature function when power failure is not saved to the extrusion head temperature.
+    
     (4).Add configuration item:the length and speed of Load filament before unloader filament. 
+    
     (5).Add a prompt box when the material is paused at the beginning of printing.
+    
     (6).Fix bug: When the break detection is configured as a high level trigger, no loading can resume printing.
+    
     (7).Add configuration item: You can choose whether to configure the M110 command for different Marlin versions.
+    
     (8).Fix bug of print stop.
+    
     (9).Adjust the position of the Z axis before X and Y move when manually leveling.
+    
     
     
