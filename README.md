@@ -126,6 +126,8 @@ V3.0.2
   
 V3.03
 
+  1.the content of V3.0.3 firmware modification(2018/10/23)
+    
     (1).Bootloader display can be rotated 180°.
     
     (2).Add configuration items to block error reporting.
