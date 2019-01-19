@@ -13,12 +13,12 @@ MKS-TFT70 V1.0.1
     5,Fixed the bug that button1 and button2 are the same icons. 
     
 MKS-TFT70 V1.0.2
-     (1)、Fix the bug that "zero" interface "turn off the motor" does not work.
-     (2)、Fix the bug that network printing does not transfer data sometimes.
-     (3)、Fix the bug that extrusion is error after change print speed and return in the double nozzle printing.
-     (4)、Added the ablity to display rotation of bootloader.
-     (5)、Fix the bug that print stop due to card reading error.
-     (6)、Fix the bug that define line number error after 5 times resend.
+     (1),Fix the bug that "zero" interface "turn off the motor" does not work.
+     (2),Fix the bug that network printing does not transfer data sometimes.
+     (3),Fix the bug that extrusion is error after change print speed and return in the double nozzle printing.
+     (4),Added the ablity to display rotation of bootloader.
+     (5),Fix the bug that print stop due to card reading error.
+     (6),Fix the bug that define line number error after 5 times resend.
      
 1.Firmware options
 
