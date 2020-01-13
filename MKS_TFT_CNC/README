@@ -24,3 +24,10 @@ The firmware of V_1.0.0 modified content :
 4.Fix the bug that file to be less than 1K interface stuck.
 5.Increase more interfaces in printing.
 
+MKS-TFT_CNC V1.0.1
+
+The firmware of V_1.0.1 modified content :
+
+1.Add  z axis control 
+2.Add MKS-TFT32_CNC Firmware version
+
