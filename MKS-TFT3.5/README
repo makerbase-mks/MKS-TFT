@@ -20,6 +20,10 @@ MKS-TFT35 V1.0.2
      (5),Fix the bug that print stop due to card reading error.
      (6),Fix the bug that define line number error after 5 times resend.
      
+MKS-TFT35 V1.0.3
+     (1)、Modify the font of the auto-leveling button is not displayed.
+     (2)、Modify the status color can not be configured.
+     
 1.Firmware options
 
 MKS TFT3.5: mkstft35.bin
