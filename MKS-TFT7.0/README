@@ -24,6 +24,10 @@ MKS-TFT70 V1.0.3
      (1)、Modify the font of the auto-leveling button is not displayed.
      (2)、Modify the status color can not be configured.
      
+MKS-TFT70 V1.0.4
+     (1) The "operation" interface adds a babystep adjustment button.
+     (2) The "More" interface opens the calibration function.
+     
 1.Firmware options
 
 MKS TFT7.0: mkstft70.bin
