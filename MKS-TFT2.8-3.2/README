@@ -13,3 +13,6 @@
 4,Configure the language of  Win8 version need to set : cfg_multiple_language:0
 
 5, You can refer to the Example folder's routines.
+
+6,The firmware of V_3.0.4 modified content:
+(1)、Added babystep adjustment buttons to the "More" screen during printing.
