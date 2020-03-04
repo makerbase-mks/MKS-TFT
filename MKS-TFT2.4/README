@@ -11,3 +11,7 @@
 3、When configuring the red version, you need to change the background color of the configuration file to 0x494949
 
 4、Configure the language of  Win8 version need to set : cfg_multiple_language:0
+
+5、The firmware of V_3.0.4 modified content:
+
+(1)、Added babystep adjustment buttons to the "More" screen during printing.
