@@ -27,6 +27,10 @@ MKS-TFT70 V1.0.3
 MKS-TFT70 V1.0.4
      (1) The "operation" interface adds a babystep adjustment button.
      (2) The "More" interface opens the calibration function.
+    
+MKS-TFT70 V1.0.5
+     (1) Fix the problem that the babystep adjustment value is too large.
+     (2) Fix the problem that the screen calibration value is not saved.
      
 1.Firmware options
 
