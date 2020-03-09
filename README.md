@@ -149,6 +149,10 @@ V3.03
 V3.04
 
     (1).Added babystep adjustment buttons to the "More" screen during printing.
+      
+V3.05
+
+    (1).Fix the problem that the babystep adjustment value is too large.
     
     
     
