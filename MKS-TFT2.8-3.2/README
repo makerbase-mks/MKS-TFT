@@ -16,3 +16,6 @@
 
 6,The firmware of V_3.0.4 modified content:
 (1)、Added babystep adjustment buttons to the "More" screen during printing.
+
+7,The firmware of V_3.0.5 modified content:
+(1)、Fix the problem that the babystep adjustment value is too large.
