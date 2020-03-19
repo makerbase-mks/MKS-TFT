@@ -16,7 +16,7 @@ You can check morn info about MKS TFT. For example, size, layout, Schematic and 
 - MKS TFT70 Hardware[click here](https://github.com/makerbase-mks/MKS-TFT70)
 
 # Related tutorials and Notice
-- User Manual.[click here]()
+- User Manual.[click here](https://github.com/makerbase-mks/MKS-TFT/wiki/MKS-TFT-User-manual)
 - Thank you very much for DenisShelema's UI theme.[click here](https://github.com/DenisShelema/MKS-TFT3.5-light-and-dark-themes)
 - Welcome to follow us on Facebook to learn about the company's latest developments.[click here](https://www.facebook.com/Makerbase.mks/)
 
