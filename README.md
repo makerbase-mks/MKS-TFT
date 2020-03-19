@@ -1,5 +1,5 @@
 # MKS-TFT
-We has open MKS TFT source code and schematic ...
+## We has open all MKS TFT source code and schematic ...
 ## Source code
 If you want to change some function or add new function and so on, you can refer to MKS TFT source code and build it, update it to MKS TFT, Link as below:
 - MKS TFT24 Source code.[click here](https://github.com/makerbase-mks/MKS-TFT24-Firmware)    
