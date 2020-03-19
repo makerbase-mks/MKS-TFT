@@ -1,4 +1,9 @@
 # MKS-TFT
+If you want to change some function or add new function and so on, you can refer to MKS TFT source code and build it, update it to MKS TFT, Link as below:
+- MKS TFT24 Source code.[click here](https://github.com/makerbase-mks/MKS-TFT24-Firmware)
+- MKS TFT28/32 Soucrce code.[click here](https://github.com/makerbase-mks/MKS-TFT28-32-Firmware)
+- MKS TFT35 Source code.[click here](https://github.com/makerbase-mks/MKS-TFT35-Firmware)
+- MKS TFT70 Source code.[click here](https://github.com/makerbase-mks/MKS-TFT70-Firmware)
 
 1.  Attentions
 
