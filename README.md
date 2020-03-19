@@ -29,10 +29,10 @@ If you want to change some function or add new function and so on, you can refer
 - MKS TFT70：mkstft70.bin
 
 ### V3.05
-    - Fix the problem that the babystep adjustment value is too large.
+ - Fix the problem that the babystep adjustment value is too large.
     
 ### V3.04
-    - Added babystep adjustment buttons to the "More" screen during printing.
+  - Added babystep adjustment buttons to the "More" screen during printing.
     
 ### V3.03
 the content of V3.0.3 firmware modification(2018/10/23)
