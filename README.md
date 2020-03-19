@@ -13,14 +13,10 @@ If you want to change some function or add new function and so on, you can refer
 
 # Firmware version description
 ## Attentions
-
-  1.1 MKS TFT includes TFT2.4, TFT3.5,TFT2.8，TFT3.2,MKS-TFT_CNC and TFT7.0.
-  
-  1.2 Since TFT7.0 and TFT3.5 is standalone version, the following are TFT2.4, 2.8, and 3.2
-
-  1.3 If using MKS TFT_WIFI module, it’s necessary to upgrade the WIFI firmware. 
-
-  1.4 The file name must not be changed when upgrading the firmware, otherwise, upgrading fails.
+- MKS TFT includes TFT2.4, TFT3.5,TFT2.8，TFT3.2,MKS-TFT_CNC and TFT7.0.
+- Since TFT7.0 and TFT3.5 is standalone version, the following are TFT2.4, 2.8, and 3.2
+- If using MKS TFT_WIFI module, it’s necessary to upgrade the WIFI firmware. 
+- The file name must not be changed when upgrading the firmware, otherwise, upgrading fails.
 
 ## Release Firmware version description
 - MKS TFT24: mkstft24.bin 
