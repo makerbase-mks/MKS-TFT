@@ -9,11 +9,11 @@ If you want to change some function or add new function and so on, you can refer
 
 ## Hardware
 You can check morn info about MKS TFT. For example, size, layout, Schematic and so on. Link as below:
-- MKS TFT24 Hardware[click here](https://github.com/makerbase-mks/MKS-TFT24)
-- MKS TFT28 Hardware[click here](https://github.com/makerbase-mks/MKS-TFT28)
-- MKS TFT32 Hardware[click here](https://github.com/makerbase-mks/MKS-TFT32)
-- MKS TFT35 Hardware[click here](https://github.com/makerbase-mks/MKS-TFT35)
-- MKS TFT70 Hardware[click here](https://github.com/makerbase-mks/MKS-TFT70)
+- MKS TFT24 Hardware.[click here](https://github.com/makerbase-mks/MKS-TFT24)
+- MKS TFT28 Hardware.[click here](https://github.com/makerbase-mks/MKS-TFT28)
+- MKS TFT32 Hardware.[click here](https://github.com/makerbase-mks/MKS-TFT32)
+- MKS TFT35 Hardware.[click here](https://github.com/makerbase-mks/MKS-TFT35)
+- MKS TFT70 Hardware.[click here](https://github.com/makerbase-mks/MKS-TFT70)
 
 # Related tutorials and Notice
 - User Manual.[click here](https://github.com/makerbase-mks/MKS-TFT/wiki/MKS-TFT-User-manual)
