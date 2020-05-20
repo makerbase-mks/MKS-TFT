@@ -31,7 +31,11 @@ MKS-TFT35 V1.0.4
 MKS-TFT35 V1.0.5
      (1) Fix the problem that the babystep adjustment value is too large.
      (2) Fix the problem that the screen calibration value is not saved.
-     
+MKS-TFT35 V1.0.6
+     (1) Add wifi scan mode
+     (2) Add most of the configuration parameters in the online configuration configuration file
+     (3) Add Marin firmware online parameter adjustment function, can configure basic parameters such as pulse, TMC drive current, acceleration, probe offset, etc.
+     (4) Add Gcode console display
 1.Firmware options
 
 MKS TFT3.5: mkstft35.bin
