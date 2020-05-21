@@ -1,7 +1,7 @@
 # MKS-TFT3.5
 
 ## How to update
-Copy all the files and folders here to the root path of sdcard, insert to the TFT35 and reboot it, it will update automatically.
+After decompressing the compressed package, copy all the files and folders inside to the root path of sdcard, insert to the TFT35 and reboot it, it will update automatically.
 
 ## MKS-TFT35 Firmware version description
 
