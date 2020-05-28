@@ -19,3 +19,6 @@
 
 7,The firmware of V_3.0.5 modified content:
 (1)、Fix the problem that the babystep adjustment value is too large.
+
+8、The firmware of V_3.0.6 modified content:
+(1)、Add the function of mks ups.
