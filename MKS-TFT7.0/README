@@ -32,6 +32,12 @@ MKS-TFT70 V1.0.5
      (1) Fix the problem that the babystep adjustment value is too large.
      (2) Fix the problem that the screen calibration value is not saved.
      
+MKS-TFT70 V1.0.6
+     (1) Correct touch value.
+     
+MKS-TFT70 V1.0.7
+     (1) Add the function of mks ups.
+     
 1.Firmware options
 
 MKS TFT7.0: mkstft70.bin
