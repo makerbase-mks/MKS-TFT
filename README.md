@@ -29,6 +29,9 @@ You can check morn info about MKS TFT Hardware. For example, size, layout, Schem
 - MKS TFT35：mkstft35.bin
 - MKS TFT70：mkstft70.bin
 
+### V3.06
+ - Added the function of mks ups.
+
 ### V3.05
  - Fix the problem that the babystep adjustment value is too large.
     
