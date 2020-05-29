@@ -4,7 +4,11 @@
 After decompressing the compressed package, copy all the files and folders inside to the root path of sdcard, insert to the TFT35 and reboot it, it will update automatically.
 
 ## MKS-TFT35 Firmware version description
+MKS-TFT35 V1.0.7
 
+     (1) Add support for UPS power failure detection module
+     (2) Fix the bug that the preview of Gcode files in the file directory shows abnormal
+    
 MKS-TFT35 V1.0.6
 
      (1) Add wifi scan mode
