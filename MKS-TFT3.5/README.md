@@ -8,6 +8,8 @@ MKS-TFT35 V1.0.7
 
      (1) Add support for UPS power failure detection module
      (2) Fix the bug that the preview of Gcode files in the file directory shows abnormal
+     (3) Fixed the bug of abnormal WiFi transmission and abnormal transmission with file name and Chinese gcode
+     (4) Increase wifi password setting length
     
 MKS-TFT35 V1.0.6
 
