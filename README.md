@@ -12,25 +12,18 @@
 - on Aliexpress [MKS TFT35](https://www.aliexpress.com/item/32891320510.html)
 - on Aliexpress [MKS TFT70](https://www.aliexpress.com/item/32890948123.html)
 
-## Source code
+# Source code
 If you want to change some function or add new function and so on, you can refer to MKS TFT source code and build it, update it to MKS TFT, Link as below:
 - MKS TFT24 Source code.[click here](https://github.com/makerbase-mks/MKS-TFT24-Firmware)    
 - MKS TFT28/32 Soucrce code.[click here](https://github.com/makerbase-mks/MKS-TFT28-32-Firmware)        
 - MKS TFT35 Source code.[click here](https://github.com/makerbase-mks/MKS-TFT35-Firmware)    
 - MKS TFT70 Source code.[click here](https://github.com/makerbase-mks/MKS-TFT70-Firmware)    
 
-## Hardware
+# Hardware
 You can check morn info about MKS TFT Hardware. For example, size, layout, Schematic and so on. Link as below:
 - MKS TFT Hardware.[click here](https://github.com/makerbase-mks/MKS-TFT-Hardware)
 
 # Firmware version description
-## Attentions
-- MKS TFT includes TFT2.4, TFT3.5,TFT2.8，TFT3.2,MKS-TFT_CNC and TFT7.0.
-- Since TFT7.0 and TFT3.5 is standalone version, the following are TFT2.4, 2.8, and 3.2
-- If using MKS TFT_WIFI module, it’s necessary to upgrade the WIFI firmware. 
-- The file name must not be changed when upgrading the firmware, otherwise, upgrading fails.
-
-## Release Firmware version description
 - MKS TFT24: mkstft24.bin 
 - MKS TFT28/32：mkstft28.bin
 - MKS TFT35：mkstft35.bin
