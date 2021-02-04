@@ -1,5 +1,5 @@
 
-## MKS_TFT_
+## MKS_TFT_LASER
 
 ### Support screen
 - TFT24
