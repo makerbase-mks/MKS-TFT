@@ -17,3 +17,20 @@
 
 ### Version update information
 - Corresponding firmware README.txt file
+
+## Firmware description
+
+## TFT24-TFT28-TFT32
+### V1.0.2
+- Initial version
+- Support MKS Laser mobile app
+
+### V1.0.3
+- Correct the translation of the word "connect"
+- Fix the problem of failure to update the old version of bootloader firmware
+
+## TFT35
+### V1.0.2
+- Initial version
+### V1.0.3
+- Support MKS Laser mobile app
