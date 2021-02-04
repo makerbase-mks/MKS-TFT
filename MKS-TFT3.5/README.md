@@ -4,6 +4,12 @@
 After decompressing the compressed package, copy all the files and folders inside to the root path of sdcard, insert to the TFT35 and reboot it, it will update automatically.
 
 ## MKS-TFT35 Firmware version description
+MKS-TFT35 V1.0.8
+
+     (1) Fix the problem that cura cannot read SD card files
+     (2) Fix the display problem of the material break detection dialog box
+     (3) Fix the buzzer response problem when the material is interrupted
+     
 MKS-TFT35 V1.0.7
 
      (1) Add support for UPS power failure detection module
