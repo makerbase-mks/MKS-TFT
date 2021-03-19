@@ -29,6 +29,10 @@
 - Correct the translation of the word "connect"
 - Fix the problem of failure to update the old version of bootloader firmware
 
+### V1.0.3.2
+- Correct the translation of the word "connect"
+- Modify the "conneced" display.
+
 ## TFT35
 ### V1.0.2
 - Initial version
