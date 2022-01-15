@@ -24,8 +24,13 @@ If you want to change some function or add new function and so on, you can refer
 You can check morn info about MKS TFT Hardware. For example, size, layout, Schematic and so on. Link as below:
 - MKS TFT Hardware.[click here](https://github.com/makerbase-mks/MKS-TFT-Hardware)
    
-# Note
+## Note
 - Thank you for using MKS products. If you have any questions during use, please contact us in time and we will work with you to solve it.
-- For more product dynamic information and tutorial materials, you can always follow MKS's Facebook and GitHub and YouTube. Thank you!
-![](https://github.com/makerbase-mks/MKS-Robin-Nano/blob/master/hardware/Image/MKS_FGA.png)
-    
+- For more product dynamic information and tutorial materials, you can always follow MKS's Facebook/Twitter/Discord/Reddit/Youtube and Github. Thank you!
+- MKS Github: https://github.com/makerbase-mks  
+- MKS Facebook: https://www.facebook.com/Makerbase.mks/  
+- MKS Twitter: https://twitter.com/home?lang=en  
+- MKS Discord: https://discord.gg/4uar57NEyU
+- MKS Reddit: https://www.reddit.com/user/MAKERBASE-TEAM/ 
+
+![mks_link](https://user-images.githubusercontent.com/12979070/149612472-e372dfb6-1efc-4bad-bde7-be486f60d6c3.png)
